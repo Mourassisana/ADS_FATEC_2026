@@ -3,7 +3,7 @@
 Repositório desenvolvido para a disciplina de **Sistemas Operacionais** do curso de Análise e Desenvolvimento de Sistemas (ADS) na **FATEC Zona Leste**.
 
 ## 👤 Identificação
-* **Estudante:** Ana
+* **Estudante:** Ana Assis | Mourassisana
 * **Instituição:** FATEC ZL (Faculdade de Tecnologia de São Paulo - Zona Leste)
 * **Professor:** Leandro Colevati
 * **Linguagem Utilizada:** Python 3.12+
